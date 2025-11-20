@@ -8,6 +8,20 @@
 
 A comprehensive and customizable PrestaShop module that displays a visual progress bar showing customers how much they need to spend to qualify for free shipping. Encourage customers to add more products to their cart, increasing average order value.
 
+## ⚠️ Disclaimer
+
+This module is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement.
+
+**Important:**
+- ✅ Always test in a **development/staging environment** before production
+- ✅ Create a **complete backup** of your store before installation
+- ✅ Verify compatibility with your PrestaShop version and other modules
+- ❌ The author is **not responsible** for any damage, data loss, or issues caused by using this module
+
+**Use at your own risk.** For production environments, consider using [professional installation services](#-professional-services).
+
+---
+
 ## ✨ Key Features
 
 ### Display Options
