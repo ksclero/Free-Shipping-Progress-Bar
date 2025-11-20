@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="it" datatype="plaintext" original="file.ext">
+    <body>
+      <!-- Module Info -->
+      <trans-unit id="1">
+        <source>Free Shipping Progress Bar</source>
+        <target>Barra di Progresso Spedizione Gratuita</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Displays a progress bar showing how much more customers need to spend to qualify for free shipping.</source>
+        <target>Mostra una barra di progresso che indica quanto manca al raggiungimento della soglia per la spedizione gratuita.</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>Are you sure you want to uninstall?</source>
+        <target>Sei sicuro di voler disinstallare?</target>
+      </trans-unit>
+
+      <!-- Settings Form -->
+      <trans-unit id="4">
+        <source>Settings</source>
+        <target>Impostazioni</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>Display on cart page</source>
+        <target>Mostra nella pagina carrello</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>Enabled</source>
+        <target>Attiva</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>Disabled</source>
+        <target>Disattiva</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>Display on checkout page</source>
+        <target>Mostra nella pagina checkout</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>Display as popup</source>
+        <target>Mostra come popup</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>Show popup when products are added to cart</source>
+        <target>Mostra popup quando i prodotti vengono aggiunti al carrello</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>Popup duration (ms)</source>
+        <target>Durata popup (ms)</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>Time in milliseconds that the popup will be displayed</source>
+        <target>Tempo in millisecondi di visualizzazione del popup</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>Free shipping threshold</source>
+        <target>Soglia spedizione gratuita</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>Use PrestaShop configuration</source>
+        <target>Usa configurazione PrestaShop</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>Custom value</source>
+        <target>Valore personalizzato</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>Choose where to get the free shipping threshold value</source>
+        <target>Scegli da dove ottenere il valore della soglia per la spedizione gratuita</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>Custom threshold amount</source>
+        <target>Importo soglia personalizzato</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>Custom amount for free shipping (only used if custom value is selected)</source>
+        <target>Importo personalizzato per la spedizione gratuita (usato solo se è selezionato "Valore personalizzato")</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>Amount is in default currency</source>
+        <target>L'importo è nella valuta predefinita</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>It will be automatically converted for other currencies.</source>
+        <target>Verrà convertito automaticamente per le altre valute.</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>Progress bar background color</source>
+        <target>Colore sfondo barra di progresso</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>Progress bar fill color</source>
+        <target>Colore riempimento barra di progresso</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>Normal message color</source>
+        <target>Colore messaggio normale</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>Color for the message when free shipping is not reached</source>
+        <target>Colore per il messaggio quando la spedizione gratuita non è raggiunta</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>Success message color</source>
+        <target>Colore messaggio successo</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>Color for the message when free shipping is reached</source>
+        <target>Colore per il messaggio quando la spedizione gratuita è raggiunta</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>Message when free shipping not reached</source>
+        <target>Messaggio quando spedizione gratuita non raggiunta</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>Use {remaining_amount} as placeholder for the remaining amount</source>
+        <target>Usa {remaining_amount} come segnaposto per l'importo rimanente</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>Message when free shipping is reached</source>
+        <target>Messaggio quando spedizione gratuita raggiunta</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>Save</source>
+        <target>Salva</target>
+      </trans-unit>
+
+      <!-- Product Exclusion Settings (v2.1.0) -->
+      <trans-unit id="31">
+        <source>Product Exclusion Settings</source>
+        <target>Impostazioni Esclusione Prodotti</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>Exclude virtual/downloadable products</source>
+        <target>Escludi prodotti virtuali/scaricabili</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>Virtual and downloadable products will not count towards free shipping threshold</source>
+        <target>I prodotti virtuali e scaricabili non verranno conteggiati per la soglia di spedizione gratuita</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>Excluded categories</source>
+        <target>Categorie escluse</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>Category IDs to exclude (comma separated, e.g. "5,12,18"). Products in these categories will not count towards the threshold.</source>
+        <target>ID delle categorie da escludere (separati da virgola, es. "5,12,18"). I prodotti in queste categorie non verranno conteggiati.</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>Excluded products</source>
+        <target>Prodotti esclusi</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>Product IDs to exclude (comma separated, e.g. "10,25,47"). These specific products will not count towards the threshold.</source>
+        <target>ID dei prodotti da escludere (separati da virgola, es. "10,25,47"). Questi prodotti specifici non verranno conteggiati.</target>
+      </trans-unit>
+
+      <!-- Validation Messages -->
+      <trans-unit id="38">
+        <source>Custom threshold cannot be negative</source>
+        <target>La soglia personalizzata non può essere negativa</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>Popup duration cannot be negative</source>
+        <target>La durata del popup non può essere negativa</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>Settings updated</source>
+        <target>Impostazioni aggiornate</target>
+      </trans-unit>
+
+      <!-- Warning Messages -->
+      <trans-unit id="41">
+        <source>Free shipping threshold is set to 0 or not configured. The module will not be displayed on the front office. </source>
+        <target>La soglia di spedizione gratuita è impostata a 0 o non è configurata. Il modulo non verrà mostrato nel front office. </target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>Please configure the free shipping price in PrestaShop settings or use a custom value.</source>
+        <target>Si prega di configurare il prezzo per la spedizione gratuita nelle impostazioni di PrestaShop o utilizzare un valore personalizzato.</target>
+      </trans-unit>
+
+      <!-- Multi-currency Messages -->
+      <trans-unit id="43">
+        <source>Multi-currency detected:</source>
+        <target>Rilevate più valute:</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>The threshold is configured in</source>
+        <target>La soglia è configurata in</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>It will be automatically converted to other active currencies using PrestaShop's exchange rates.</source>
+        <target>Verrà convertita automaticamente nelle altre valute attive utilizzando i tassi di cambio di PrestaShop.</target>
+      </trans-unit>
+
+      <!-- Support Box -->
+      <trans-unit id="46">
+        <source>Support This Module</source>
+        <target>Supporta Questo Modulo</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>This module is free and open-source. If you find it useful, please consider supporting its development:</source>
+        <target>Questo modulo è gratuito e open-source. Se lo trovi utile, considera di supportarne lo sviluppo:</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>Support via PayPal</source>
+        <target>Supporta tramite PayPal</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>Need professional help? Contact me at</source>
+        <target>Hai bisogno di aiuto professionale? Contattami a</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>or visit</source>
+        <target>o visita</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
