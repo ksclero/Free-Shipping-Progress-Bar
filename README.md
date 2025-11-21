@@ -2,7 +2,7 @@
 
 [![Support via PayPal](https://img.shields.io/badge/Support-PayPal-blue?logo=paypal)](https://www.paypal.com/paypalme/ettorestani)
 [![PrestaShop](https://img.shields.io/badge/PrestaShop-1.7.x--8.2.x-blue.svg)](https://www.prestashop.com/)
-[![Version](https://img.shields.io/badge/version-2.2.1-green.svg)](https://github.com/ksclero/Free-Shipping-Progress-Bar)
+[![Version](https://img.shields.io/badge/version-2.2.1-green.svg)](https://github.com/ettorestani/Free-Shipping-Progress-Bar)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![PHP](https://img.shields.io/badge/php-7.1%2B-blue.svg)](https://www.php.net/)
 
@@ -67,7 +67,7 @@ This module is provided "as is", without warranty of any kind, express or implie
 ## 🚀 Installation
 
 ### Standard Installation
-1. Download the latest version from [Releases](https://github.com/ksclero/Free-Shipping-Progress-Bar/releases)
+1. Download the latest version from [Releases](https://github.com/ettorestani/Free-Shipping-Progress-Bar/releases)
 2. Go to your PrestaShop back office
 3. Navigate to **Modules** > **Module Manager** > **Upload a module**
 4. Select the downloaded ZIP file
